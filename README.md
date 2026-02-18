@@ -37,5 +37,3 @@ The system allows users to create support tickets and automatically classifies t
 
 ---
 
-## 📁 Project Structure
-
